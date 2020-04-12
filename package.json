@@ -1,0 +1,16 @@
+{
+  "name": "retrieve-google-photos",
+  "version": "1.0.0",
+  "description": "Retrieve Google Photos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Santosh Singh Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
